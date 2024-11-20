@@ -60,7 +60,7 @@ function generateLastName(answerValue) {
 }
 
 function displayClanName(fullClanName) {
-    fullClanNameDisplay.innerText = fullClanName
+    fullClanNameDisplay.innerText = `Your Name: ${fullClanName}`
 }
 
 
